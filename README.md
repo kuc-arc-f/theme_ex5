@@ -19,6 +19,10 @@
 
 ---
 ### blog
+設定方法等、記載しています。
+
+https://knaka0209.hatenablog.com/entry/hexo-5
+
 
 ---
 
